@@ -1,3 +1,6 @@
+/**
+ * Simple Hello World program in C++
+ */
 #include <iostream>
 
 int main()
